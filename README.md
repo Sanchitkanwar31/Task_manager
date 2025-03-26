@@ -148,6 +148,9 @@ All tasks are stored inside the `server/data.json` file in the following format:
   }
 ]
 ```
+]
+
+Since the data.json file in the GitHub repository has only two tasks, only these will be displayed. However, when connected to a cloud-based database or local storage, new tasks can be stored persistently. Currently, any changes made will only be reflected on the frontend page and will not be saved permanently.
 
 ## 📌 Contributing  
 Want to improve this project? Feel free to fork the repository, make changes, and submit a pull request.
