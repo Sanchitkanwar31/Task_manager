@@ -61,9 +61,11 @@ This will launch the React app on `http://localhost:3000`.
 | PUT    | `/updatetasks/:id`| Update task by ID         |
 | DELETE | `/deltasks/:id`   | Delete task by ID         |
 
-## ## 🧬 Testing the API  
+## ## 🧬 Testing the API Endpoints  
 You can test the API using:  
-### Fetch All Tasks  
+Instructions for testing the API using Postman, curl, or any other tool :
+
+### Fetch All Tasks using Thunder Client  
 **Request:**  
 ```sh
 GET http://localhost:8000/tasks
